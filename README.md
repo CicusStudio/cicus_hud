@@ -1,4 +1,4 @@
-# Cicus HUD - FiveM
+# cicus_HUD
 
 Cicus HUD è una risorsa per **FiveM** che offre un'interfaccia utente personalizzata per visualizzare informazioni utili durante il gioco. Compatibile con i framework **ESX** e **QB**, è progettato per integrarsi facilmente con altre risorse, come quelle per la gestione del carburante e la chat vocale. 🚗🎮
 
